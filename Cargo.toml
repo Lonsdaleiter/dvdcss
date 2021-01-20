@@ -4,6 +4,6 @@ version = "0.1.0"
 authors = ["Lonsdaleiter <lonsdaleiteproductions@gmail.com>"]
 edition = "2018"
 description = "Safe, Rust bindings to libdvdcss."
-keywords = ["dvd", "dvdcss", "encrypted dvd"]
+keywords = ["dvd", "dvdcss", "encrypted-dvd"]
 categories = ["api-bindings"]
 license = "MIT"
