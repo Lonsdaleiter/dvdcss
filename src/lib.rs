@@ -1,3 +1,8 @@
+//! # Dvdcss
+//!
+//! The `dvdcss` crate contains bindings to the C library `libdvdcss`, providing a simple and
+//! easy way to read content from encrypted DVDs.
+
 use std::ffi::CStr;
 use std::os::raw::c_void;
 
