@@ -6,3 +6,4 @@ edition = "2018"
 description = "Safe, Rust bindings to libdvdcss."
 keywords = ["dvd", "dvdcss", "encrypted dvd"]
 categories = ["api-bindings"]
+license = "MIT"
