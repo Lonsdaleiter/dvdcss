@@ -1,5 +1,5 @@
-use bitflags::_core::ffi::c_void;
 use std::ffi::CStr;
+use std::os::raw::c_void;
 
 mod ffi;
 
