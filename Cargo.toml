@@ -7,3 +7,4 @@ description = "Safe, Rust bindings to libdvdcss."
 keywords = ["dvd", "dvdcss", "encrypted-dvd"]
 categories = ["api-bindings"]
 license = "MIT"
+git = "https://github.com/Lonsdaleiter/dvdcss"
