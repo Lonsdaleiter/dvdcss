@@ -1,6 +1,6 @@
 [package]
 name = "dvdcss"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Lonsdaleiter <lonsdaleiteproductions@gmail.com>"]
 edition = "2018"
 description = "Safe, Rust bindings to libdvdcss."
