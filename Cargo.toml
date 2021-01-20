@@ -1,10 +1,10 @@
 [package]
 name = "dvdcss"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Lonsdaleiter <lonsdaleiteproductions@gmail.com>"]
 edition = "2018"
 description = "Safe, Rust bindings to libdvdcss."
 keywords = ["dvd", "dvdcss", "encrypted-dvd"]
 categories = ["api-bindings"]
 license = "MIT"
-git = "https://github.com/Lonsdaleiter/dvdcss"
+repository = "https://github.com/Lonsdaleiter/dvdcss"
